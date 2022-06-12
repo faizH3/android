@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "685937468646",
+    "project_id": "bengkol-215ab",
+    "storage_bucket": "bengkol-215ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685937468646:android:895cf3d3323cee9af64727",
+        "android_client_info": {
+          "package_name": "com.bengkol.Apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685937468646-39b1b6r1aubr8mi4b4hqcsa0u78851st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFmuGQuP9Ixc-G9WA0eHe0MfWgrE4vaHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685937468646-39b1b6r1aubr8mi4b4hqcsa0u78851st.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685937468646:android:020b8b33adee2114f64727",
+        "android_client_info": {
+          "package_name": "com.bengkol.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685937468646-39b1b6r1aubr8mi4b4hqcsa0u78851st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFmuGQuP9Ixc-G9WA0eHe0MfWgrE4vaHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685937468646-39b1b6r1aubr8mi4b4hqcsa0u78851st.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

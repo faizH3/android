@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.bengkol.app">
+    package="com.bengkol.Apps">
    <application
         android:label="bengkol"
         android:name="${applicationName}"
